@@ -1,4 +1,3 @@
-# Data-Modeling-with-Cassandra
 # Data Modeling with Cassandra
 > 
 In this project I am taking on the role of a Data Engineer to create an Apache Cassandra database which can create queries on song play data to answer specific questions for a fictional startup called Sparkify. The queries are designed with a focus on what songs users are listening to. The project tasks included the modelling of the data by creating tables in Apache Cassandra to run queries on as well as the creation of an ETL pipeline that transfers data from a set of CSV files within a directory to create a streamlined CSV file to model and insert data into Apache Cassandra tables.
